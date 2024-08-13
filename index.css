@@ -1,0 +1,20 @@
+.head{
+    display: flex;
+    justify-content: end;
+    height: 10vh;
+    padding-top: 20px;
+}
+.two{
+    text-align: center;
+    padding: 20px;
+    background-color: #ece7e7;
+}
+.end{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: 1000;
+    height: 10vh;
+    padding-top: 30px;
+    font-size: larger;
+}
